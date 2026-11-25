@@ -2,7 +2,7 @@
 Movie Recommendation System Using NLP and Python
 ------------------------------------------------
 Developed by:
-  - Rohnak Singh
+  - Yogesh Sheoran
  
 
 A content-based movie recommender built with Python, Streamlit,
@@ -371,8 +371,7 @@ with st.sidebar:
     st.markdown("### 👥 Development Team")
     st.markdown(
         """
-        - **Rugved Kulkarni**
-        - **Siddhant Gaikwad**
+        - **Yogesh Sheoran**
         """
     )
 
@@ -524,7 +523,7 @@ with tab_about:
         st.markdown("#### 👨‍💻 Developed By")
         st.markdown(
             """
-            - **Rohnak kumar Singh**
+            - **Yogesh Sheoran*
             """
         )
 
@@ -549,7 +548,7 @@ st.markdown(
     """
     <div class="app-footer">
         Movie Recommendation System Using NLP and Python<br/>
-        Developed with ❤️ by <span class="footer-devs">Rohnak kumar Singh</span> 
+        Developed with ❤️ by <span class="footer-devs">Yogesh Sheoran</span> 
     </div>
     """,
     unsafe_allow_html=True
