@@ -5,7 +5,7 @@ A content-based movie recommender web application built with **Python**, **Natur
 ---
 
 ## 👥 Development Team
-- **Rohnak Kumar Singh**
+- **Yogesh Sheoran**
 
 
 ---
